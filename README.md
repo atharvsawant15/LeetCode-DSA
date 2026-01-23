@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/atharvsawant15/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/atharvsawant15/LeetCode-DSA/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/atharvsawant15/LeetCode-DSA/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
