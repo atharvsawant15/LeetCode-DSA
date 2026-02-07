@@ -1,8 +1,8 @@
 {
   "leetcode": {
     "easy": 7,
-    "medium": 12,
     "hard": 0,
+    "medium": 15,
     "shas": {
       "0007-reverse-integer": {
         "0007-reverse-integer.java": "5efd781c1dfc693153895ceb11fde375525341df",
@@ -93,6 +93,6 @@
         "difficulty": "easy"
       }
     },
-    "solved": 19
+    "solved": 22
   }
 }
